@@ -1,0 +1,58 @@
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.csproj.AssemblyReference.cache
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.Form1.resources
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.csproj.GenerateResource.cache
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.AssemblyInfoInputs.cache
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.AssemblyInfo.cs
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.csproj.CoreCompileInputs.cache
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\WinFormsApp9_Project.exe
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\WinFormsApp9_Project.deps.json
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\WinFormsApp9_Project.runtimeconfig.json
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\WinFormsApp9_Project.dll
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\WinFormsApp9_Project.pdb
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.csproj.CopyComplete
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.dll
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\refint\WinFormsApp9_Project.dll
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.pdb
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.genruntimeconfig.cache
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\ref\WinFormsApp9_Project.dll
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.Form2.resources
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.Form3.resources
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.Properties.Resources.resources
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.Form4.resources
+C:\Users\Denis Dumitru\source\repos\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.Form5.resources
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\WinFormsApp9_Project.exe
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\WinFormsApp9_Project.deps.json
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\WinFormsApp9_Project.runtimeconfig.json
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\WinFormsApp9_Project.dll
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\WinFormsApp9_Project.pdb
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.csproj.AssemblyReference.cache
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.Form1.resources
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.Form2.resources
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.Form3.resources
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.Form4.resources
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.Form5.resources
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.Properties.Resources.resources
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.csproj.GenerateResource.cache
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.AssemblyInfoInputs.cache
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.AssemblyInfo.cs
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.csproj.CopyComplete
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.dll
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\refint\WinFormsApp9_Project.dll
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.pdb
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\WinFormsApp9_Project.genruntimeconfig.cache
+C:\Users\diana\Desktop\WinFormsApp9_Project\WinFormsApp9_Project\obj\Debug\net6.0-windows\ref\WinFormsApp9_Project.dll
