@@ -1,45 +1,93 @@
-# Aplicația Flappy Bird - Prezentare Generală
 
-**Aplicația Flappy Bird** a fost aleasă ca temă de proiect pentru multiple motive convingătoare. Acest joc clasic, care a devenit o senzație globală, captiva jucătorii prin gameplay-ul său simplu, dar provocator. Prin recrearea Flappy Bird, ne-am propus să valorificăm recunoașterea sa largă și nostalgia asociată, atrăgând astfel un public divers la proiectul nostru.
 
-Atracția principală a Flappy Bird constă în mecanica sa simplă, ceea ce îl face ușor de înțeles, dar dificil de stăpânit. Această simplitate oferă o bază solidă pentru proiectul nostru, asigurându-ne că jucătorii se pot implica rapid și pot savura provocările pe care jocul le oferă. De asemenea, fezabilitatea tehnică a dezvoltării unei clone Flappy Bird în cadrul resurselor și timpului disponibile a făcut ca această alegere să fie ideală. Ne-am concentrat pe implementarea eficientă a elementelor de bază ale jocului, evitând complexitățile inutile.
+# APLICAȚIA FLAPPY BIRD
 
-Mai mult, acest proiect oferă oportunități semnificative de învățare și dezvoltare a abilităților. Prin construirea unei aplicații inspirate de Flappy Bird, am explorat designul și programarea jocurilor, dobândind înțelegeri esențiale despre crearea unor experiențe captivante pentru utilizatori. Proiectul ne-a permis, de asemenea, să ne dezvoltăm abilitățile în dezvoltarea aplicațiilor mobile.
+## Cuprins
 
-## Obiective
+1. **Introducere**  
+   1.1 Contextul proiectului  
+   1.2 Obiective  
+   1.3 Specificații și detalii principale  
+2. **Descrierea aplicației**  
+3. **Implementarea aplicației**  
+4. **Testarea aplicației**  
+5. **Anexa 1 (Cod sursă)**  
 
-Obiectivul principal a fost dezvoltarea unei aplicații Flappy Bird pentru platforma Windows, utilizând framework-ul Windows Forms. Această alegere a fost motivată de capacitățile framework-ului de a crea interfețe grafice prietenoase și ușor de implementat. Am explorat și adaptat funcționalitățile oferite de Windows Forms pentru a satisface nevoile aplicației noastre, asigurând o arhitectură modulară și scalabilă a proiectului.
+---
 
-Pentru a recrea fidel experiența autentică a Flappy Bird, am studiat în detaliu mecanismele jocului original. Am implementat logica de săritură a păsării, detectarea coliziunilor cu obstacolele și sistemul de punctaj conform regulilor jocului original. Sincronizarea precisă între elementele grafice și logica jocului a fost o prioritate, pentru a oferi utilizatorilor o experiență fluentă.
+## 1. INTRODUCERE
 
-Pe lângă recrearea gameplay-ului original, am avut ca scop îmbunătățirea experienței cu elemente noi și captivante. Ne-am concentrat pe asigurarea unei interfețe grafice atrăgătoare și intuitive, pentru ca jucătorii să se bucure de o interacțiune plăcută și estetică cu jocul. Testarea riguroasă a fost efectuată pentru a elimina erorile și a asigura un gameplay fără probleme.
+### 1.1 Contextul proiectului  
+Acest proiect are ca scop dezvoltarea unei aplicații bazate pe jocul clasic **Flappy Bird**. Jocul a fost ales datorită popularității sale și a mecanicii simple, dar captivante. Într-o lume în care jocurile mobile au devenit parte din viața de zi cu zi, acest proiect oferă oportunitatea de a explora elementele fundamentale ale dezvoltării de jocuri, cum ar fi fizica jocului, coliziunile și mecanica de control a personajului.  
 
-## Specificații Tehnice
+Alegerea **Windows Forms** pentru dezvoltare a fost făcută datorită compatibilității sale cu **C#**, limbaj utilizat pentru construirea aplicațiilor desktop interactive. De asemenea, Windows Forms oferă un mediu eficient pentru crearea interfețelor grafice intuitive și gestionarea evenimentelor.
 
-Pentru a atinge obiectivele propuse, am utilizat următoarele resurse și tehnologii:
+Prin acest proiect, ne propunem să creăm o versiune simplă, dar funcțională a Flappy Bird, păstrând mecanica originală a jocului și adăugând elemente personalizate pentru o experiență îmbunătățită.
 
-- **Platforma de Dezvoltare**: Platforma Windows, cu aplicația rulând pe Windows 10.
-- **Limbaj de Programare**: C# a fost ales pentru suportul său puternic în dezvoltarea aplicațiilor Windows și compatibilitatea cu Windows Forms.
-- **Framework**: Windows Forms a fost utilizat pentru crearea interfeței grafice a aplicației și gestionarea evenimentelor.
-- **Cerințe de Sistem**:
-  - Sistem de Operare: Windows 10 sau o versiune ulterioară.
-  - Procesor: Intel Core i3 sau echivalent.
-  - Memorie RAM: minim 1 GB.
-  - Spațiu de stocare: minim 100 MB.
-  - Rezoluție Ecran: minim 1280x720 pixeli.
+### 1.2 Obiective  
+Scopul principal al acestui proiect este implementarea unei aplicații Flappy Bird pentru **platforma Windows**, utilizând **C#** și **Windows Forms**. Printre obiectivele principale ale proiectului se numără:
 
-Aceste resurse și tehnologii au fost critice în dezvoltarea și implementarea aplicației Flappy Bird, asigurând că aceasta rulează fără probleme pe platforma Windows și îndeplinește cerințele de sistem specificate.
+- **Recrearea mecanicii clasice** a jocului Flappy Bird, inclusiv gravitația și săriturile păsării.  
+- **Implementarea unui sistem de coliziuni** între pasăre și obstacole, folosind detecția coliziunilor.  
+- **Crearea unei interfețe intuitive** și atractive, care să asigure o experiență fluentă pentru utilizator.  
+- **Asigurarea unei rulări fluide** și optimizarea resurselor pentru performanță optimă.  
+- **Testarea și validarea aplicației**, pentru a garanta funcționarea corectă și eliminarea eventualelor bug-uri.  
 
-## Arhitectura Aplicației
+### 1.3 Specificații și detalii principale  
 
-Arhitectura aplicației Flappy Bird a fost proiectată pentru a fi robustă și modulară. Aceasta include diagrame detaliate care ilustrează structurile de clase, scenariile de utilizare și designul bazei de date, explicând componentele de bază ale aplicației și modul în care acestea interacționează. Această arhitectură asigură funcționarea coerentă a fiecărei părți a aplicației, oferind o experiență fără întreruperi utilizatorilor.
+1. **Limbajul de programare**: Aplicația a fost dezvoltată utilizând **C#**, un limbaj robust și potrivit pentru aplicații desktop.  
 
-## Implementare și Testare
+2. **Tehnologii utilizate**:  
+   - **Framework**: Windows Forms – folosit pentru interfața grafică.  
+   - **Sistem de gestionare a evenimentelor**: Windows Forms Events.  
+   - **Biblioteci suplimentare**: utilizate pentru procesarea coliziunilor și gestionarea animațiilor.  
 
-Aplicația a fost dezvoltată într-o serie de faze, începând cu funcțiile de autentificare ale utilizatorilor și continuând cu mecanismele de bază ale gameplay-ului din Flappy Bird. Pe parcursul procesului de dezvoltare, am integrat feedback-ul utilizatorilor și am rafinat aplicația în mod iterativ.
+3. **Funcționalitățile aplicației**:  
+   - **Mecanica de săritură** a păsării: utilizatorul controlează pasărea prin apăsarea unui buton.  
+   - **Obstacole dinamice**: țevi generate aleatoriu pentru a crea un joc provocator.  
+   - **Sistem de coliziuni**: detectarea interacțiunii dintre pasăre și obstacole.  
+   - **Scor dinamic**: creșterea scorului pe măsură ce utilizatorul depășește obstacolele.  
+   - **Ecran de game over**: notificarea utilizatorului atunci când pierde jocul.  
+   - **Restart rapid**: utilizatorul poate relua jocul după un game over fără a închide aplicația.  
 
-Testarea extinsă a acoperit teste unitare, teste de integrare și scenarii de gestionare a erorilor. Am implementat mecanisme de gestionare a excepțiilor pentru a trata situațiile neașteptate, asigurând stabilitatea aplicației și o experiență prietenoasă pentru utilizatori.
+4. **Cerințe de sistem**:  
+   - Sistem de Operare: **Windows 10 sau mai recent**  
+   - Procesor: **Intel Core i3 sau echivalent**  
+   - RAM: **minim 1 GB**  
+   - Spațiu pe disc: **minim 100 MB**  
+   - Rezoluție minimă ecran: **1280x720 pixeli**  
 
-Documentația proiectului include capturi de ecran detaliate ale interfeței principale, procesului de autentificare, gameplay-ului, meniului de selecție a avatarului și mesajelor de gestionare a erorilor. Aceste ajutoare vizuale ilustrează caracteristicile și funcționalitatea aplicației, oferind o imagine de ansamblu completă pentru utilizatori și dezvoltatori deopotrivă.
+---
 
-În concluzie, proiectul Aplicația Flappy Bird demonstrează capacitatea noastră de a recrea un joc îndrăgit, adăugând în același timp elemente noi pentru a îmbunătăți experiența utilizatorului. Este o dovadă a abilităților noastre tehnice și creative în dezvoltarea jocurilor, oferind experiențe valoroase de învățare și o aplicație distractivă și captivantă pentru utilizatori.
+## 2. DESCRIEREA APLICAȚIEI  
+Aplicația este un **joc single-player**, în care utilizatorul controlează o pasăre care trebuie să evite obstacole și să parcurgă o distanță cât mai mare. Mecanica jocului este simplă: pasărea cade datorită gravitației, iar utilizatorul trebuie să apese un buton pentru a o face să sară.  
+
+Designul este inspirat din jocul original **Flappy Bird**, având un fundal dinamic și țevi generate procedural. Scorul este afișat în timp real și crește cu fiecare obstacol trecut.  
+
+---
+
+## 3. IMPLEMENTAREA APLICAȚIEI  
+Implementarea a fost realizată în **C# și Windows Forms**, structura fiind organizată în mai multe componente:  
+
+- **Clasa principală a jocului**, care gestionează logica de joc și evenimentele de utilizator.  
+- **Clasa pentru pasăre**, care controlează mișcarea și fizica personajului.  
+- **Clasa pentru obstacole**, responsabilă de generarea țevilor și mișcarea acestora.  
+- **Sistem de coliziuni**, care detectează interacțiunea dintre pasăre și obstacole.  
+- **Gestionarea scorului**, care actualizează și afișează punctajul utilizatorului.  
+
+---
+
+## 4. TESTAREA APLICAȚIEI  
+Pentru a asigura stabilitatea și corectitudinea aplicației, am realizat mai multe tipuri de teste:  
+
+- **Teste unitare** pentru verificarea mecanicii de săritură și coliziuni.  
+- **Teste de integrare** pentru verificarea interacțiunii dintre componente.  
+- **Teste funcționale** pentru a garanta experiența utilizatorului.  
+- **Teste de performanță** pentru optimizarea jocului și reducerea întârzierilor.  
+
+Testele au fost realizate pe mai multe configurații hardware pentru a verifica compatibilitatea aplicației.
+
+---
+
+## 5. ANEXA 1 (COD SURSA)  
+Codul sursă al proiectului este organizat pe module și poate fi găsit în directorul proiectului. Acesta include fișierele principale necesare pentru rularea și dezvoltarea aplicației.  
